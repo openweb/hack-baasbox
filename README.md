@@ -38,6 +38,12 @@ To test it visit <http://localhost:9000> and you will see the BaasBox start page
 
 To access the **Admin Console Panel**, go to <http://localhost:9000/console>
 
+Use remote database
+
+./start -Dconfig.file=remote.config
+
+more detail: https://github.com/baasbox/baasbox/pull/816
+
 Default credentials are:
 
 + username: admin
