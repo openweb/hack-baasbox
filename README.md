@@ -44,6 +44,8 @@ Use remote database
 
 more detail: https://github.com/baasbox/baasbox/pull/816
 
+[ WIP: OrientDB 2.1.2 + Remote OrientDB Installation #858](https://github.com/baasbox/baasbox/pull/858/commits/25fc96f043dc2d9dafb5c025a3b4336dd22361d8)
+
 Default credentials are:
 
 + username: admin
