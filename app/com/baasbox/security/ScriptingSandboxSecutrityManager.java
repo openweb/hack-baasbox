@@ -6,6 +6,8 @@ import java.security.Permission;
 
 /**
  * Created by eto on 24/09/14.
+ * 
+ * http://docs.huihoo.com/java/javase/8/api/java/lang/SecurityManager.html
  */
 public class ScriptingSandboxSecutrityManager extends SecurityManager {
 

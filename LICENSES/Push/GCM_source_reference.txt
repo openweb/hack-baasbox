@@ -1,2 +1,2 @@
 Official Google Cloud Messaging: Apache License 2.0 
-https://code.google.com/p/gcm/
+https://github.com/google/gcm

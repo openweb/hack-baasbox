@@ -16,6 +16,11 @@
  * limitations under the License.
  */
 
+/*
+ * scribe need update new version
+ * https://github.com/scribejava/scribejava
+ */
+
 package com.baasbox.service.sociallogin;
 
 import java.io.IOException;
